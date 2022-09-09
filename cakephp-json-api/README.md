@@ -1,13 +1,5 @@
-### !!! THIS PLUGIN IS NOW DEPRECTATED, PLEASE REFER TO [crud-json-api](https://github.com/FriendsOfCake/crud-json-api) for a better alternative
-
-# json-api plugin for CakePHP 3
-
-[![Latest Stable Version](https://poser.pugx.org/josbeir/cakephp-json-api/v/stable)](https://packagist.org/packages/josbeir/cakephp-json-api)
-[![Total Downloads](https://poser.pugx.org/josbeir/cakephp-json-api/downloads)](https://packagist.org/packages/josbeir/cakephp-json-api)
-[![Latest Unstable Version](https://poser.pugx.org/josbeir/cakephp-json-api/v/unstable)](https://packagist.org/packages/josbeir/cakephp-json-api)
-[![License](https://poser.pugx.org/josbeir/cakephp-json-api/license)](https://packagist.org/packages/josbeir/cakephp-json-api)
-[![codecov.io](https://codecov.io/github/josbeir/cakephp-json-api/coverage.svg?branch=master)](https://codecov.io/github/josbeir/cakephp-json-api?branch=master)
-[![Build Status](https://travis-ci.org/josbeir/cakephp-json-api.svg?branch=master)](https://travis-ci.org/josbeir/cakephp-json-api)
+**Upgraded josbeir/cakephp-json-api to CAKEPHP4.0**
+# json-api plugin for CakePHP 4.0
 
 ![json:api](http://jsonapi.org/images/jsonapi.png)
 
@@ -18,10 +10,6 @@ This plugin implements [neomerx/json-api](https://github.com/neomerx/json-api) a
 > JSON API is designed to minimize both the number of requests and the amount of data transmitted between clients and servers. This efficiency is achieved without compromising readability, flexibility, or discoverability.
 >
 > JSON API requires use of the JSON API media type (application/vnd.api+json) for exchanging data.
-
-## Disclaimer
-
-Very much a work in progress. My goal is make it as feature complete as possible but contributions are welcome. Features are added on an occasional basis.
 
 ## Installation
 
